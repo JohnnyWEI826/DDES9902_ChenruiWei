@@ -14,6 +14,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/EZPZ b) Examples/a) Standalone Example Scenes/01 Item Cycling.unity
     guid: 7ecc1225d74d4454aad820312b981b7c
+  - enabled: 0
+    path: Assets/__My Project/1/My Project Example Scene A.unity
+    guid: cc8f4f51d6936bd4ab3e98a528b2ff4a
+  - enabled: 0
+    path: Assets/__My Project/1/My Project Example Scene A 1.unity
+    guid: 7badd7b6271d497448d6f862d13a7688
+  - enabled: 1
+    path: Assets/__My Project/assessment1/RoyalNavyMuseum.unity
+    guid: 2ac8b22a427c0a6408ac108f57f4e1a3
+  - enabled: 1
+    path: Assets/__My Project/assessment1/US Navy Museum.unity
+    guid: 858f9b182cf807d40968aa6eb1ca2f75
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3c28928f4ba463b408fa3dad31f078ec, type: 2}
