@@ -2407,7 +2407,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 525274506826451584, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_text
-      value: model #1
+      value: Forrestal-class aircraft carrier
       objectReference: {fileID: 0}
     - target: {fileID: 3172445459502377556, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_Name
@@ -2541,7 +2541,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 525274506826451584, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_text
-      value: model #1
+      value: Arleigh Burke-class destroyer
       objectReference: {fileID: 0}
     - target: {fileID: 3172445459502377556, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_Name
@@ -3068,7 +3068,7 @@ PrefabInstance:
     - target: {fileID: 609697691475881418, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a9d29f05a8e3884a97e0fcab73bacea, type: 2}
+      objectReference: {fileID: 2100000, guid: e9e09990c1d25c44b92fe9e34e628492, type: 2}
     - target: {fileID: 939511503622104927, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: m_Name
       value: model
@@ -4371,7 +4371,7 @@ PrefabInstance:
     - target: {fileID: 609697691475881418, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a9d29f05a8e3884a97e0fcab73bacea, type: 2}
+      objectReference: {fileID: 2100000, guid: 7518aba7094b30542acca18cc129d14c, type: 2}
     - target: {fileID: 939511503622104927, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: m_Name
       value: model
@@ -4760,7 +4760,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 525274506826451584, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_text
-      value: model #1
+      value: USS Nautilus (SSN-571)
       objectReference: {fileID: 0}
     - target: {fileID: 3172445459502377556, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_Name
@@ -5224,7 +5224,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 944986883048354261, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: onPrimaryInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'https:'
+      value: https://en.wikipedia.org/wiki/Kitty_Hawk-class_aircraft_carrier
       objectReference: {fileID: 0}
     - target: {fileID: 1131108386955184141, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -5366,7 +5366,7 @@ PrefabInstance:
     - target: {fileID: 609697691475881418, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a9d29f05a8e3884a97e0fcab73bacea, type: 2}
+      objectReference: {fileID: 2100000, guid: 05358cb75eb8be749b80ab08e15a953e, type: 2}
     - target: {fileID: 939511503622104927, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: m_Name
       value: model
@@ -5648,7 +5648,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 525274506826451584, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_text
-      value: model #1
+      value: Kitty Hawk-class aircraft carrier
       objectReference: {fileID: 0}
     - target: {fileID: 3172445459502377556, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_Name
@@ -5758,7 +5758,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 944986883048354261, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: onPrimaryInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'https:'
+      value: https://en.wikipedia.org/wiki/Forrestal-class_aircraft_carrier
       objectReference: {fileID: 0}
     - target: {fileID: 1131108386955184141, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -6181,7 +6181,7 @@ PrefabInstance:
     - target: {fileID: 609697691475881418, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a9d29f05a8e3884a97e0fcab73bacea, type: 2}
+      objectReference: {fileID: 2100000, guid: 5d3dfceaf6495af41a9f22c3e5080d97, type: 2}
     - target: {fileID: 939511503622104927, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: m_Name
       value: model
@@ -6642,7 +6642,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 944986883048354261, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: onPrimaryInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'https:'
+      value: https://en.wikipedia.org/wiki/Oliver_Hazard_Perry-class_frigate
       objectReference: {fileID: 0}
     - target: {fileID: 1131108386955184141, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -6981,7 +6981,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f7133b1b8cc03dd449e81e13ac66591b, type: 2}
+  - {fileID: 2100000, guid: 9763655051be8634591c7bd9f7e7761a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7373,7 +7373,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 944986883048354261, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: onPrimaryInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'https:'
+      value: https://en.wikipedia.org/wiki/Arleigh_Burke-class_destroyer
       objectReference: {fileID: 0}
     - target: {fileID: 1131108386955184141, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -7630,7 +7630,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 525274506826451584, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_text
-      value: model #1
+      value: OliverHazard Perry-class frigate
       objectReference: {fileID: 0}
     - target: {fileID: 3172445459502377556, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_Name
@@ -7761,7 +7761,7 @@ PrefabInstance:
     - target: {fileID: 609697691475881418, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a9d29f05a8e3884a97e0fcab73bacea, type: 2}
+      objectReference: {fileID: 2100000, guid: e61b3ac31718608478a6f5c820d3af9b, type: 2}
     - target: {fileID: 939511503622104927, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: m_Name
       value: model
@@ -8374,7 +8374,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 525274506826451584, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_text
-      value: model #1
+      value: Nimitz-class aircraft carrier
       objectReference: {fileID: 0}
     - target: {fileID: 3172445459502377556, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_Name
@@ -8867,7 +8867,7 @@ PrefabInstance:
     - target: {fileID: 609697691475881418, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a9d29f05a8e3884a97e0fcab73bacea, type: 2}
+      objectReference: {fileID: 2100000, guid: 0f063c3ecb0a81b4a86805fae76d54c2, type: 2}
     - target: {fileID: 939511503622104927, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: m_Name
       value: model
@@ -9257,7 +9257,7 @@ PrefabInstance:
     - target: {fileID: 609697691475881418, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a9d29f05a8e3884a97e0fcab73bacea, type: 2}
+      objectReference: {fileID: 2100000, guid: 923eee1e403f27449b3cd9a73f1771c8, type: 2}
     - target: {fileID: 939511503622104927, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: m_Name
       value: model
@@ -9398,7 +9398,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 944986883048354261, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: onPrimaryInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'https:'
+      value: https://en.wikipedia.org/wiki/Fletcher-class_destroyer
       objectReference: {fileID: 0}
     - target: {fileID: 1131108386955184141, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -9543,7 +9543,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 525274506826451584, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_text
-      value: USS Long Beach
+      value: USS Long Beach(CGN-9)
       objectReference: {fileID: 0}
     - target: {fileID: 3172445459502377556, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_Name
@@ -9877,7 +9877,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 944986883048354261, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: onPrimaryInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'https:'
+      value: https://en.wikipedia.org/wiki/Essex-class_aircraft_carrier
       objectReference: {fileID: 0}
     - target: {fileID: 1131108386955184141, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -10624,7 +10624,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 944986883048354261, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: onPrimaryInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'https:'
+      value: https://en.wikipedia.org/wiki/Nimitz-class_aircraft_carrier
       objectReference: {fileID: 0}
     - target: {fileID: 1131108386955184141, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -11986,7 +11986,7 @@ PrefabInstance:
     - target: {fileID: 609697691475881418, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a9d29f05a8e3884a97e0fcab73bacea, type: 2}
+      objectReference: {fileID: 2100000, guid: 27e4cea2be06d044091a501cf7de1071, type: 2}
     - target: {fileID: 939511503622104927, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: m_Name
       value: model
@@ -12151,7 +12151,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 525274506826451584, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_text
-      value: model #1
+      value: USS Enterprise (CV-6)
       objectReference: {fileID: 0}
     - target: {fileID: 3172445459502377556, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_Name
@@ -12751,7 +12751,7 @@ PrefabInstance:
     - target: {fileID: 609697691475881418, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a9d29f05a8e3884a97e0fcab73bacea, type: 2}
+      objectReference: {fileID: 2100000, guid: 397a8bd66de441a43953236ace49ea77, type: 2}
     - target: {fileID: 939511503622104927, guid: 5344f74aa97c4e543af12c461e915e8c, type: 3}
       propertyPath: m_Name
       value: model
@@ -13004,7 +13004,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 944986883048354261, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: onPrimaryInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'https:'
+      value: https://en.wikipedia.org/wiki/USS_Nautilus_(SSN-571)
       objectReference: {fileID: 0}
     - target: {fileID: 1131108386955184141, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -13601,7 +13601,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 525274506826451584, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_text
-      value: model #1
+      value: Essex-class aircraft carrier
       objectReference: {fileID: 0}
     - target: {fileID: 3172445459502377556, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_Name
@@ -13735,7 +13735,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 525274506826451584, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_text
-      value: model #1
+      value: Fletcher-class destroyer
       objectReference: {fileID: 0}
     - target: {fileID: 3172445459502377556, guid: 815976abe225a8b45bd181f927c9c927, type: 3}
       propertyPath: m_Name
@@ -13978,7 +13978,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 944986883048354261, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: onPrimaryInteract.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'https:'
+      value: https://en.wikipedia.org/wiki/USS_Enterprise_(CV-6)
       objectReference: {fileID: 0}
     - target: {fileID: 1131108386955184141, guid: 21007548895049f42b0d22ee46fcf106, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -14331,7 +14331,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f7133b1b8cc03dd449e81e13ac66591b, type: 2}
+  - {fileID: 2100000, guid: 9763655051be8634591c7bd9f7e7761a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -14897,10 +14897,18 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 3.97
       objectReference: {fileID: 0}
+    - target: {fileID: 7457159945339302034, guid: e6333e629ba3a9e41b09e24be44ecbbc, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9763655051be8634591c7bd9f7e7761a, type: 2}
     - target: {fileID: 7457159945749638880, guid: e6333e629ba3a9e41b09e24be44ecbbc, type: 3}
       propertyPath: m_LocalScale.x
       value: 34
       objectReference: {fileID: 0}
+    - target: {fileID: 7457159945749638882, guid: e6333e629ba3a9e41b09e24be44ecbbc, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9763655051be8634591c7bd9f7e7761a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 7457159944722595337, guid: e6333e629ba3a9e41b09e24be44ecbbc, type: 3}
